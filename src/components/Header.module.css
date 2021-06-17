@@ -20,6 +20,6 @@ p {
 
 @media (max-height: 700px) {
   .header {
-    margin-top: 12em;
+    margin-top: 10em;
   }
 }

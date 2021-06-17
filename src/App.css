@@ -12,11 +12,16 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
-
   background-image: url("./assets/bg-intro-desktop.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: hsl(0, 100%, 74%);
   height: 100vh;
   font-family: "Poppins", sans-serif;
+}
+
+@media (max-width: 375px) {
+  .App {
+    padding: 0em 1em;
+  }
 }
