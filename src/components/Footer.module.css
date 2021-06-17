@@ -1,0 +1,9 @@
+.footer {
+  margin-top: 3%;
+}
+
+.footer span {
+  color: hsl(0, 92%, 46%);
+
+  font-weight: bolder;
+}

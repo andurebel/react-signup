@@ -1,0 +1,12 @@
+.button {
+  display: inline-block;
+  background-color: hsl(248, 32%, 49%);
+  padding: 15px 30px;
+  border-radius: 1rem;
+  color: white;
+}
+
+.button span {
+  font-weight: bold;
+  font-size: larger;
+}
