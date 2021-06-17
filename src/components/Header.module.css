@@ -1,6 +1,5 @@
 .header {
   color: white;
-  margin-top: 2rem;
 }
 
 h1 {
@@ -11,4 +10,16 @@ h1 {
 p {
   margin-bottom: 1rem;
   margin-bottom: 3em;
+}
+
+@media (max-width: 400px) {
+  .header {
+    padding-top: 10rem;
+  }
+}
+
+@media (max-height: 700px) {
+  .header {
+    margin-top: 12em;
+  }
 }
