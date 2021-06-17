@@ -14,8 +14,9 @@
   flex-direction: column;
   height: 100%;
   background-image: url("./assets/bg-intro-desktop.png");
+  background-repeat: no-repeat;
+  background-size: cover;
   background-color: hsl(0, 100%, 74%);
   height: 100vh;
   font-family: "Poppins", sans-serif;
-  min-height: 800px;
 }
