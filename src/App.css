@@ -17,4 +17,5 @@
   background-color: hsl(0, 100%, 74%);
   height: 100vh;
   font-family: "Poppins", sans-serif;
+  min-height: 800px;
 }
