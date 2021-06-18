@@ -4,9 +4,16 @@
   padding: 15px 30px;
   border-radius: 1rem;
   color: white;
+  width: 30%;
 }
 
 .button span {
   font-weight: bold;
   font-size: larger;
+}
+
+@media screen and (max-width: 420px) {
+  .button {
+    width: 80%;
+  }
 }
