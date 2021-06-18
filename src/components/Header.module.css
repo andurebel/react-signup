@@ -11,15 +11,3 @@ p {
   margin-bottom: 1rem;
   margin-bottom: 3em;
 }
-
-@media (max-width: 400px) {
-  .header {
-    padding-top: 10rem;
-  }
-}
-
-@media (max-height: 700px) {
-  .header {
-    margin-top: 10em;
-  }
-}

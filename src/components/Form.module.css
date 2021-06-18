@@ -34,3 +34,17 @@ button {
 button:hover {
   background-color: hsl(145, 33%, 35%);
 }
+
+@media screen and (max-width: 420px) {
+  .form {
+    width: 95%;
+  }
+
+  input {
+    width: 110%;
+  }
+
+  button {
+    width: 110%;
+  }
+}
