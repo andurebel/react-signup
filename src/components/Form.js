@@ -8,7 +8,7 @@ const Form = () => {
       <input type="text" placeholder="Last name" />
       <input type="email" placeholder="Email address" />
       <input type="password" placeholder="Password" />
-      <button>Claim yout free trial</button>
+      <button>Claim your free trial</button>
     </form>
   );
 };
